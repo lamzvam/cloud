@@ -1,4 +1,15 @@
 [
+{
+        "title": "5.0.0 Beta 15 (1.16.4) Update",
+        "changes": [
+            "Added fully recoded KillAura (bypass any anticheat)",
+            "Added fully recoded BlockFly (bypass any anticheat)",
+            "Added ViaVersion 1.21 support",
+            "Improved client performance inGame",
+            "Added BackTrack module (currently experimental)",
+            "Added fully recoded FakeLag module"
+        ]
+    },
     {
         "title": "5.0.0 Beta 15 (1.16.4) Update",
         "changes": [
