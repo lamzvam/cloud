@@ -4,9 +4,12 @@
         "changes": [
             "Added fully recoded KillAura (bypass any anticheat)",
             "Added fully recoded BlockFly (bypass any anticheat)",
-            "Added ViaVersion 1.21 support",
+            "Added ViaVersion 1.21 support with propper viaMCP fixes",
+            "Added TickBase module (experimental)",
+            "Added Verus Combat disabler",
+            "Added BackTrack disabler",
             "Improved client performance inGame",
-            "Added BackTrack module (currently experimental)",
+            "Added BackTrack module (experimental)",
             "Added fully recoded FakeLag module"
         ]
     },
