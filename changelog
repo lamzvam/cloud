@@ -2,16 +2,16 @@
 {
         "title": "5.0.0 Beta 22 (1.16.4) Update",
         "changes": [
-            "Added fully recoded KillAura",
-            "Added fully recoded BlockFly (bypass any anticheat)",
-            "Added ViaVersion 1.21 support with propper viaMCP fixes",
-            "Added Polar KillAura rotations [PREMIUM]",
-            "Added TickBase module (experimental)",
-            "Added Verus Combat disabler [PREMIUM]",
-            "Added Reach disabler [PREMIUM]",
-            "Improved client performance inGame",
+            "Improved KillAura Module",
+            "Improved BlockFly Module (bypass any anticheat)",
+            "Added ViaVersion 1.21 support with propper ViaMCP fixes",
+            "Added Polar KillAura Rotations [PREMIUM]",
+            "Added TickBase Module (experimental)",
+            "Added Verus Combat Disabler [PREMIUM]",
+            "Added Reach Disabler [PREMIUM]",
             "Added BackTrack module (experimental)",
-            "Added fully recoded FakeLag module"
+            "Added fully recoded FakeLag Module",
+            "Improved client performance inGame",
         ]
     },
     {
