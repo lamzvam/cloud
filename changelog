@@ -1,13 +1,14 @@
 [
 {
-        "title": "5.0.0 Beta 20 (1.16.4) Update",
+        "title": "5.0.0 Beta 22 (1.16.4) Update",
         "changes": [
-            "Added fully recoded KillAura (bypass any anticheat)",
+            "Added fully recoded KillAura",
             "Added fully recoded BlockFly (bypass any anticheat)",
             "Added ViaVersion 1.21 support with propper viaMCP fixes",
+            "Added Polar KillAura rotations [PREMIUM]",
             "Added TickBase module (experimental)",
-            "Added Verus Combat disabler",
-            "Added BackTrack disabler",
+            "Added Verus Combat disabler [PREMIUM]",
+            "Added Reach disabler [PREMIUM]",
             "Improved client performance inGame",
             "Added BackTrack module (experimental)",
             "Added fully recoded FakeLag module"
