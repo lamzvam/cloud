@@ -13,7 +13,8 @@
             "Improved AutoMLG module",
             "Fixed KillAura Cooldown option",
             "Fixed issue with KillAura AutoBlock modes that doesn't block",
-            "Improved AutoTotem module with latest bypasses"
+            "Improved AutoTotem module with latest bypasses",
+            "Improved HitSound module with new modes"
 
         ]
     },
