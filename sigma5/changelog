@@ -9,7 +9,11 @@
             "Improved OldHitting module",
             "Improved Legit AntiKnockBack mode",
             "Added back old Vanilla AutoBlock Mode as Basic3",
-            "Improved NCP KillAura Rotations"
+            "Improved NCP KillAura Rotations",
+            "Improved AutoMLG module",
+            "Fixed KillAura Cooldown option",
+            "Fixed issue with KillAura AutoBlock modes that doesn't block"
+
         ]
     },
 {
