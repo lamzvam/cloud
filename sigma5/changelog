@@ -14,7 +14,9 @@
             "Fixed KillAura Cooldown option",
             "Fixed issue with KillAura AutoBlock modes that doesn't block",
             "Improved AutoTotem module with latest bypasses",
-            "Improved HitSound module with new modes"
+            "Improved HitSound module with new modes",
+            "Added KeepSprint as independent module",
+            "Added NoJumpDelay on AutoSprint module"
 
         ]
     },
