@@ -1,6 +1,6 @@
 [
 {
-        "title": "5.0.0 Beta 23 (1.16.4) UNRELEASED",
+        "title": "5.0.0 Beta 24 (1.16.4) UNRELEASED",
         "changes": [
             "Added RayTrace option on BlockFly module",
             "Added Full Verus Disabler [PREMIUM]",
@@ -16,7 +16,10 @@
             "Improved AutoTotem module with latest bypasses",
             "Improved HitSound module with new modes",
             "Added KeepSprint as independent module",
-            "Added NoJumpDelay on AutoSprint module"
+            "Added NoJumpDelay on AutoSprint module",
+            "Added more options on AutoSprint module",
+            "Fixed some issues with GroundStrafe Speed mode",
+            "Added Sprint option on BlockFly module"
 
         ]
     },
