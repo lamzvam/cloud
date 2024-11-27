@@ -1,8 +1,9 @@
 [
 {
-        "title": "5.0.0 Beta 24 (1.16.4) UNRELEASED",
+        "title": "5.0.0 Beta 24 (1.16.4) LAST UPDATE",
         "changes": [
             "Added RayTrace option on BlockFly module",
+            "Fixed ViaVersion issue",
             "Added Full Verus Disabler [PREMIUM]",
             "Added Vanilla AutoBlock Mode on KillAura module",
             "Added Unblock Ticks for Vanilla AutoBlock",
