@@ -3,8 +3,9 @@
         "title": "5.0.0 Beta 25  [1.16.4 - 1.21]",
         "changes": [
             "Added fully recoded BackTrack module",
-            "Improved clutch on Blockfly module",
-            "Improved Hypixel Rotation on Blockfly module"
+            "Improved Rotations on BlockFly module",
+            "Added more options on BlockFly module"
+
 
         ]
     },
