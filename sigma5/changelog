@@ -2,9 +2,10 @@
 {
         "title": "5.0.0 Beta 25  [1.16.4 - 1.21]",
         "changes": [
-            "Added fully recoded BackTrack module",
+            "Better BackTrack module",
             "Improved Rotations on BlockFly module",
-            "Added more options on BlockFly module"
+            "Added more options on BlockFly module",
+            "Huge improvements on FakeLag module"
 
 
         ]
