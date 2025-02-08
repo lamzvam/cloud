@@ -2,8 +2,8 @@
 {
         "title": "5.0.0 Beta 25  [1.16.4 - 1.21]",
         "changes": [
-            "Port all Sigma 5.0.0 Beta 24 features to Rebase branch",
             "Added JelloPortal native support 1.15 - 1.20.4 without any flags",
+            "Port all Sigma 5.0.0 Beta 24 features to Rebase branch",
             "Re-Write AutoClicker module with the latest improvements",
             "Rename Aimbot -> AimAssist and add latest improvements",
             "Better BackTrack module",
