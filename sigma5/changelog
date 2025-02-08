@@ -3,6 +3,7 @@
         "title": "5.0.0 Beta 25  [1.16.4 - 1.21]",
         "changes": [
             "Port all Sigma 5.0.0 Beta 24 features to Rebase branch",
+            "Add all JelloPortal fixes to support 1.15 - 1.19.3 without any flags",
             "Better BackTrack module",
             "Improved Rotations on BlockFly module",
             "Added more options on BlockFly module",
