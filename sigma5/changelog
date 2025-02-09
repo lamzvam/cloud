@@ -6,10 +6,10 @@
             "Port all Sigma 5.0.0 Beta 24 features to Rebase branch",
             "Re-Write AutoClicker module with the latest improvements",
             "Rename Aimbot -> AimAssist and add latest improvements",
+            "Bunch of BlockFly enhancements and added new options",
+            "Huge improvements on FakeLag module",
             "Better BackTrack module",
-            "Improved Rotations on BlockFly module",
-            "Added more options on BlockFly module",
-            "Huge improvements on FakeLag module"
+            "Improved FPSBooster module with usefull option"
 
 
         ]
