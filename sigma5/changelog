@@ -9,7 +9,10 @@
             "Bunch of BlockFly enhancements and added new options",
             "Huge improvements on FakeLag module",
             "Better BackTrack module",
-            "Improved FPSBooster module with usefull option"
+            "Improved FPSBooster module with usefull options",
+            "Added Legit mode to TargetStrafe",
+            "Enhancement on ItemPhysics module with more options",
+            "BackTrack and FakeLag are now supported with ghost modules"
 
 
         ]
